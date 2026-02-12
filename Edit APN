@@ -1,0 +1,17 @@
+Name/Nama              : INDOSAT EAST KALIMANTAN           ///You can use a different name from the one provided
+APN                    : internet
+Proxy                  : not setting 
+Port                   : not setting 
+Username               : indosat
+Password               : indosat
+Server                 : not setting 
+MMSC                   : not setting 
+Proxy MMS              : not setting 
+Port MMS               : not setting 
+MCC                    : 510                               /// default settings from device 
+MNC                    : 01                                /// default settings from device 
+Type Authentification  : PAP
+Protocol APN           : IPv4
+Protocol roaming APN   : IPv4
+Operator               : LTE
+Type MVNO              : Not
